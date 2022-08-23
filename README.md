@@ -1,10 +1,10 @@
-# nica-os
+# nuttifox-os
 
 Personal Website created using angular and ngrx
 
 Visit here:
 
-https://nicolacastellani.devplaygrounds.org/
+https://nuttifox.com
 
 ## How to
 
